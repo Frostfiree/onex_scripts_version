@@ -1,5 +1,5 @@
 {
 "name" : "onex-creation",
-"version" : "2.8.1",
-"msg" : "(Must Update) - > Big Update. Check change log on onex discord : https://discord.gg/sF32RVBwTD"
+"version" : "2.8.2",
+"msg" : "(Must Update) - > Fixed Model not refresh if character change. Check change log on onex discord : https://discord.gg/sF32RVBwTD"
 }
